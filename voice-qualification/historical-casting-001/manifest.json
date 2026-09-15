@@ -1,0 +1,103 @@
+{
+  "ticket": "HISTORICAL-CASTING-001",
+  "purpose": "Neutral broadcast-quality comparison, not pronunciation torture.",
+  "speakers": [
+    49,
+    121,
+    120,
+    119,
+    114,
+    112,
+    2,
+    124,
+    20,
+    123,
+    52,
+    45,
+    28,
+    42,
+    82
+  ],
+  "female": [
+    49,
+    121,
+    120,
+    119,
+    114,
+    112,
+    2,
+    124
+  ],
+  "male": [
+    20,
+    123,
+    52,
+    45,
+    28,
+    42,
+    82
+  ],
+  "text": "Bonsoir et bienvenue dans votre journal.\n\nVoici les principales informations de cette édition. La journée a été marquée par plusieurs annonces importantes en France et à l'étranger. Les autorités ont présenté de nouvelles mesures dans les domaines de l'économie, des transports et de l'environnement.\n\nSur le terrain, nos équipes suivent également l'évolution de la situation dans plusieurs régions. Les prochaines heures permettront de mieux mesurer les conséquences de ces décisions.\n\nDans le reste de l'actualité, les marchés sont restés relativement stables. Plusieurs entreprises ont annoncé de nouveaux investissements, tandis que les professionnels du secteur attendent désormais les prochaines orientations.\n\nNous terminerons ce journal avec la culture et les initiatives locales. De nombreux événements sont prévus cette semaine et devraient accueillir un large public.\n\nMerci de votre attention. Nous nous retrouvons très bientôt pour une nouvelle édition de Journalia.",
+  "samples": [
+    {
+      "speaker": 49,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_049.mp3"
+    },
+    {
+      "speaker": 121,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_121.mp3"
+    },
+    {
+      "speaker": 120,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_120.mp3"
+    },
+    {
+      "speaker": 119,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_119.mp3"
+    },
+    {
+      "speaker": 114,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_114.mp3"
+    },
+    {
+      "speaker": 112,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_112.mp3"
+    },
+    {
+      "speaker": 2,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_002.mp3"
+    },
+    {
+      "speaker": 124,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_124.mp3"
+    },
+    {
+      "speaker": 20,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_020.mp3"
+    },
+    {
+      "speaker": 123,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_123.mp3"
+    },
+    {
+      "speaker": 52,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_052.mp3"
+    },
+    {
+      "speaker": 45,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_045.mp3"
+    },
+    {
+      "speaker": 28,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_028.mp3"
+    },
+    {
+      "speaker": 42,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_042.mp3"
+    },
+    {
+      "speaker": 82,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/historical-casting-001/speaker_082.mp3"
+    }
+  ]
+}
