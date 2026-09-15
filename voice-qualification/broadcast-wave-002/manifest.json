@@ -1,0 +1,59 @@
+{
+  "ticket": "BROADCAST-CASTING-WAVE-002",
+  "purpose": "Neutral broadcast-quality comparison, not pronunciation torture.",
+  "speakers": [
+    62,
+    21,
+    14,
+    17,
+    66,
+    22,
+    97,
+    72,
+    13,
+    105
+  ],
+  "text": "Bonsoir et bienvenue dans votre journal.\n\nVoici les principales informations de cette édition. La journée a été marquée par plusieurs annonces importantes en France et à l'étranger. Les autorités ont présenté de nouvelles mesures dans les domaines de l'économie, des transports et de l'environnement.\n\nSur le terrain, nos équipes suivent également l'évolution de la situation dans plusieurs régions. Les prochaines heures permettront de mieux mesurer les conséquences de ces décisions.\n\nDans le reste de l'actualité, les marchés sont restés relativement stables. Plusieurs entreprises ont annoncé de nouveaux investissements, tandis que les professionnels du secteur attendent désormais les prochaines orientations.\n\nNous terminerons ce journal avec la culture et les initiatives locales. De nombreux événements sont prévus cette semaine et devraient accueillir un large public.\n\nMerci de votre attention. Nous nous retrouvons très bientôt pour une nouvelle édition de Journalia.",
+  "samples": [
+    {
+      "speaker": 62,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_062.mp3"
+    },
+    {
+      "speaker": 21,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_021.mp3"
+    },
+    {
+      "speaker": 14,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_014.mp3"
+    },
+    {
+      "speaker": 17,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_017.mp3"
+    },
+    {
+      "speaker": 66,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_066.mp3"
+    },
+    {
+      "speaker": 22,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_022.mp3"
+    },
+    {
+      "speaker": 97,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_097.mp3"
+    },
+    {
+      "speaker": 72,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_072.mp3"
+    },
+    {
+      "speaker": 13,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_013.mp3"
+    },
+    {
+      "speaker": 105,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/broadcast-wave-002/speaker_105.mp3"
+    }
+  ]
+}
