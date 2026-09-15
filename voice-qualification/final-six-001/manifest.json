@@ -1,0 +1,39 @@
+{
+  "ticket": "FINAL-SIX-BROADCAST-001",
+  "purpose": "Neutral broadcast-quality comparison, not pronunciation torture.",
+  "speakers": [
+    4,
+    49,
+    121,
+    36,
+    10,
+    100
+  ],
+  "text": "Bonsoir et bienvenue dans votre journal.\n\nVoici les principales informations de cette édition. La journée a été marquée par plusieurs annonces importantes en France et à l'étranger. Les autorités ont présenté de nouvelles mesures dans les domaines de l'économie, des transports et de l'environnement.\n\nSur le terrain, nos équipes suivent également l'évolution de la situation dans plusieurs régions. Les prochaines heures permettront de mieux mesurer les conséquences de ces décisions.\n\nDans le reste de l'actualité, les marchés sont restés relativement stables. Plusieurs entreprises ont annoncé de nouveaux investissements, tandis que les professionnels du secteur attendent désormais les prochaines orientations.\n\nNous terminerons ce journal avec la culture et les initiatives locales. De nombreux événements sont prévus cette semaine et devraient accueillir un large public.\n\nMerci de votre attention. Nous nous retrouvons très bientôt pour une nouvelle édition de Journalia.",
+  "samples": [
+    {
+      "speaker": 4,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_004.mp3"
+    },
+    {
+      "speaker": 49,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_049.mp3"
+    },
+    {
+      "speaker": 121,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_121.mp3"
+    },
+    {
+      "speaker": 36,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_036.mp3"
+    },
+    {
+      "speaker": 10,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_010.mp3"
+    },
+    {
+      "speaker": 100,
+      "url": "https://raw.githubusercontent.com/supercdn2/fluxcore-video-assets/main/voice-qualification/final-six-001/speaker_100.mp3"
+    }
+  ]
+}
